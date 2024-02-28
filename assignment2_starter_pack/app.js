@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "a": "c4", "w": "c#4", "s": "d4", "e": "d#4", "d": "e4",
         "f": "f4", "t": "f#4", "g": "g4", "y": "g#4", "h": "a4",
         "u": "bb4", "j": "b4", "k": "c5", "o": "c#5", "l": "d5",
-        "p": "d#5", "æ": "e5" // Changed 'æ' to ';' to match the HTML button IDs for the piano keys
+        "p": "d#5", "æ": "e5" 
     };
 
     document.addEventListener("keydown", function(event) {
